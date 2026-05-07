@@ -95,13 +95,7 @@ Python · Pandas · Scikit-learn · Surprise · Streamlit · Matplotlib · Jupyt
 
 ---
 
-## 👥 Team
-| Name | Role |
-|---|---|
-| Member 1 | EDA + Preprocessing |
-| Member 2 | Collaborative Filtering |
-| Member 3 | Content-based + Hybrid |
-| Member 4 | Streamlit App + Report |
+
 
 ## 📅 Timeline
 - Week 1: Data + EDA | Week 2: CF Models | Week 3: Hybrid | Week 4: Dashboard + Report
