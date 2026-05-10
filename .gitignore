@@ -41,3 +41,23 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Member 1 work - ignore
+src/collaborative/user_based.py
+src/collaborative/item_based.py
+src/utils/preprocessor.py
+
+notebooks/EDA.ipynb
+notebooks/collaborative_filtering.ipynb
+
+models/*.pkl
+data/processed/
+reports/figures/*.png
+__pycache__/
+.pytest_cache/
+*.pyc
+.vscode/
+
+data/
+models/
+reports/figures/
